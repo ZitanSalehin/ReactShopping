@@ -1,0 +1,8 @@
+.categorylist{
+    width: 100vw;
+}
+@media only screen and (max-width: 600px) {
+    .categorylist {display: flex;
+            flex-direction: column;
+    }
+  }
